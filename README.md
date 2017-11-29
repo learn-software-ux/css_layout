@@ -13,22 +13,22 @@ hi test .
 _ http://learn.gallery/css_course_info  
 .  
   
-#### Project Zero // Learn the Basics    
+#### 00 Project Zero // Learn the Basics    
 _ http://learn.gallery/css_project_zero  
   
-#### Project One // Explore the Box Model  
+#### 01 Project One // Explore the Box Model  
 _ http://learn.gallery/css_project_one   
   
-#### Project Two // Four Letter Names  
+#### 02 Project Two // Four Letter Names  
 _ http://learn.gallery/css_project_two  
   
-#### Project Three // Bulid Something  
+#### 03 Project Three // Bulid Something  
 _ http://learn.gallery/css_project_three  
   
-#### Project Four // Presentation Skills    
+#### 04 Project Four // Presentation Skills    
 _ http://learn.gallery/css_project_four  
   
-#### Project Five // On Going Development  
+#### 05 Project Five // On Going Development  
 _ http://learn.gallery/css_project_five    
   
 
